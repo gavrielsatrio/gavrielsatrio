@@ -10,15 +10,15 @@ My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new thi
 
 
 <h2>Reach me on the internet 🌎:</h2>
-- Check out my Website on [https://gavrielsatrio.github.io](https://gavrielsatrio.github.io)
-- Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)
-- Social media on [instagram.com/gavrielsatrio](https://instagram.com/gavrielsatrio)
+<p>- Check out my Website on [https://gavrielsatrio.github.io](https://gavrielsatrio.github.io)</p>
+<p>- Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)</p>
+<p>- Social media on [instagram.com/gavrielsatrio](https://instagram.com/gavrielsatrio)</p>
 
 <h2>Check out my recent repositories 📚:</h2>
-- [GzKitchen-Android](https://github.com/gavrielsatrio/GzKitchen-Android)
-- [GzKitchen](https://github.com/gavrielsatrio/GzKitchen)
-- [Tic-Tac-Toe](https://github.com/gavrielsatrio/Tic-Tac-Toe)
-- [Flappy-Dragon](https://github.com/gavrielsatrio/Flappy-Dragon)
+<p>- [GzKitchen-Android](https://github.com/gavrielsatrio/GzKitchen-Android)</p>
+<p>- [GzKitchen](https://github.com/gavrielsatrio/GzKitchen)</p>
+<p>- [Tic-Tac-Toe](https://github.com/gavrielsatrio/Tic-Tac-Toe)</p>
+<p>- [Flappy-Dragon](https://github.com/gavrielsatrio/Flappy-Dragon)</p>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gavrielsatrio&amp;show_icons=true">
