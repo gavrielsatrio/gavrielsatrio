@@ -1,23 +1,29 @@
-### Hi guys👋
+# Hi guys👋
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gavrielsatrio)](https://github.com/gavrielsatrio) [![GitHub followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
 
-My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast and food enthusiast.
+My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast, food enthusiast, software developer, and web developer.
+
+---
 
 🌱 I'm currently developing my GzKitchen projects.
+
+
 🔭 I do enjoy working on C#,  Java, JavaScript and PHP (framework or not-framework).
+
+
 ⚡ Fun fact : I don't memorize well the multiplication 6 and above.
 
 
-## Reach me on the internet 🌎:</h2>
-- Check out my Website on [![https://gavrielsatrio.github.io](https://gavrielsatrio.github.io)]</p>
-- Get linked on [![LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)]</p>
-- Social media on [![instagram.com/gavrielsatrio](https://instagram.com/gavrielsatrio)]</p>
+### Reach me on the internet 🌎:</h2>
+- Check out my Website on [https://gavrielsatrio.github.io](https://gavrielsatrio.github.io)]</p>
+- Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)]</p>
+- Social media on [instagram.com/gavrielsatrio](https://instagram.com/gavrielsatrio)]</p>
 
-## Check out my recent repositories 📚:
+### Check out my recent repositories 📚:
 - [GzKitchen-Android](https://github.com/gavrielsatrio/GzKitchen-Android)
-- [GzKitchen](https://github.com/gavrielsatrio/GzKitchen)]
-- [Tic-Tac-Toe](https://github.com/gavrielsatrio/Tic-Tac-Toe]
+- [GzKitchen](https://github.com/gavrielsatrio/GzKitchen)
+- [Tic-Tac-Toe](https://github.com/gavrielsatrio/Tic-Tac-Toe)
 - [Flappy-Dragon](https://github.com/gavrielsatrio/Flappy-Dragon)
 
 
