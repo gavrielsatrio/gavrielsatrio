@@ -1,8 +1,8 @@
 # Hi guys👋
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gavrielsatrio)](https://github.com/gavrielsatrio) [![GitHub followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
 
-My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast, food enthusiast, software developer, and web developer.
+My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast, food enthusiast, software developer, and web developer. Hit that star button on my repositories and follow me for more interesting things 🤞.
 
 ---
 
@@ -16,9 +16,9 @@ My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new thi
 
 
 ### Reach me on the internet 🌎:</h2>
-- Check out my Website on [https://gavrielsatrio.github.io](https://gavrielsatrio.github.io)]</p>
-- Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)]</p>
-- Social media on [instagram.com/gavrielsatrio](https://instagram.com/gavrielsatrio)]</p>
+- Check out my Website on [Github Pages](https://gavrielsatrio.github.io)
+- Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)
+- Social media on [Instagram](https://instagram.com/gavrielsatrio)
 
 ### Check out my recent repositories 📚:
 - [GzKitchen-Android](https://github.com/gavrielsatrio/GzKitchen-Android)
