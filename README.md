@@ -18,7 +18,7 @@ My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new thi
 ### Reach me on the internet 🌎:</h2>
 - Check out my Website on [Github Pages](https://gavrielsatrio.github.io)
 - Get linked on [LinkedIn](https://www.linkedin.com/in/gavriel-satrio-widjaya/)
-- Social media on [Instagram](https://instagram.com/gavrielsatrio)
+- Social media on [Instagram](https://instagram.com/gavrielsatrio/)
 
 ### Check out my recent repositories 📚:
 - [GzKitchen-Android](https://github.com/gavrielsatrio/GzKitchen-Android)
