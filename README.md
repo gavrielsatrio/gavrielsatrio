@@ -1,6 +1,6 @@
 <h2>Hi guys👋</h2>
 
-[![visitor](https://visitor-badge.laobi.icu/badge?page_id=gavrielsatrio)](https://github.com/gavrielsatrio) [![GitHub followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gavrielsatrio)](https://github.com/gavrielsatrio) [![GitHub followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
 
 My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast and food enthusiast.
 
