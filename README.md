@@ -4,9 +4,9 @@
 
 My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast and food enthusiast.
 
-🌱 I'm currently developing my GzKitchen projects.
-🔭 I do enjoy working on C#,  Java, JavaScript and PHP (framework or not-framework)
-⚡ Fun fact : I don't memorize well the multiplication  6 and above.
+<p>🌱 I'm currently developing my GzKitchen projects.</p>
+<p>🔭 I do enjoy working on C#,  Java, JavaScript and PHP (framework or not-framework)</p>
+<p>⚡ Fun fact : I don't memorize well the multiplication  6 and above.</p>
 
 
 <h2>Reach me on the internet 🌎:</h2>
