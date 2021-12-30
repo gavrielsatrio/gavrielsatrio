@@ -9,7 +9,7 @@ My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new thi
 🌱 I'm currently developing my GzKitchen projects.
 
 
-🔭 I do enjoy working on C#,  Java, JavaScript and PHP (both framework or not-framework).
+🔭 I do enjoy working on C#, Java, JavaScript and PHP (both framework or not-framework).
 
 
 ⚡ Fun fact : I don't memorize well the multiplication 6 and above.
