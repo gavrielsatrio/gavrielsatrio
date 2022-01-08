@@ -2,7 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/gavrielsatrio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gavrielsatrio?tab=followers)
 
-My name is Gavriel Satrio Widjaya. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast, food enthusiast, software developer, and web developer. Hit that star button on my repositories and follow me for more interesting things 🤞.
+My name is Gavriel Satrio Widjaya, 18 years old. You can call me Gav. I like exploring new things. Especially when it comes to technology. Because we all know the technology grows faster than your hair 😆. I'm a tech enthusiast, food enthusiast, software developer, and web developer. Hit that star button on my repositories and follow me for more interesting things 🤞.
 
 ---
 
