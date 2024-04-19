@@ -6,7 +6,7 @@ My name is Gavriel Satrio Widjaya, 18 years old. You can call me Gav. I like exp
 
 ---
 
-🌱 I'm currently developing my GzKitchen projects.
+🌱 I'm a creative and adaptive learner.
 
 
 🔭 I do enjoy working on C#, Java, JavaScript and PHP (both framework or not-framework).
